@@ -159,7 +159,7 @@
     height: 50px;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 720px) {
   .calendar-card {
     flex-direction: column;
   }
